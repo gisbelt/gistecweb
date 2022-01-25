@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ 
+<url>
+<loc>http://www.gistecweb.com.ve/</loc>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://www.gistecweb.com.ve/app/design.php</loc>
+<lastmod>2017-07-31</lastmod>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://www.gistecweb.com.ve/app/marketing.php</loc>
+</url>
+<url>
+<loc>http://www.gistecweb.com.ve/app/precios.php</loc>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://www.gistecweb.com.ve/app/empresa.php</loc>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://www.gistecweb.com.ve/app/servicios.php</loc>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>http://www.gistecweb.com.ve/blog/index.php</loc>
+<priority>1.0</priority>
+</url>
+</urlset>
+

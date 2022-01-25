@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
+<!-- 
+/* ******************** Gistec Web - Soluciones Tecnológicas ******************
+#
+# Copyright (C) 2017-2018 Gisbel Torres 
+#
+
+#
+# Gistec Web is a company specialized in web design (front-end) and if you
+# want, you can work with us and contact our e-mail: gistec01@gmail.com.
+#
+# We didn't use any framework to make this web site. 
+#
+
+#
+# Gistec Web es una compañía especializada en el DISEÑO WEB y si quieres
+# puedes trabajar con nosotros y escribirnos a nuestro e-mail: gistec01@gmail.com
+#
+# No utilizamos ningún framework, además de bootstrap, para la creación de este sitio web.
+# Este sitio web no es responsive, se está trabajando en ello para que sea totalmente adaptable
+# Es un proyecto totalmente personal y su uso se basa netamente para practicar y mejorar mis habilidades en el diseño web 
+
+/****************************************************************************/
+/*                   index.html                                              */
+/*                                                                          */
+/***************************************************************************/
+/*
+  Autor  : Gisbel Torres
+  Version: 1.8 en PHP5
+  Fecha  : 03 de Marzo del 2017
+*/ 
+-->
+
+
+<head>
+	<meta charset="utf-8">    
+	<title>Gistec</title>
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta name="author" content="Gisbel Torres - gistec01@gmail.com">
+    <link rel="SHORTCUT ICON" type="image/x-icon" href=""> 
+    
+	<style type="text/css">
+		html, body, div, iframe { margin:0; padding:0; height:100%; }
+		iframe { display:block; width:100%; border:none; }
+	</style>
+</head>
+<body>
+	<input type="hidden" id="index" value="index"/>  
+	<!-- <iframe src="app/index.php" id="iframe"></iframe> -->
+	<script>
+		var index = document.getElementById("index").value;
+		if(index == "index"){
+			window.location="app/index.php";			
+		}
+	</script>
+</body>
+</html>

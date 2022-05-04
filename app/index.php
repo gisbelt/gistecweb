@@ -27,13 +27,6 @@
     <link rel="stylesheet" href="../public/css/font-awesome.css">
     <!-- Font Google -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet">
-    <!-- Theme style -->
-    <!-- <link rel="stylesheet" href="{{asset('css/AdminLTE.min.css')}}"> -->
-    <!-- AdminLTE Skins. Choose a skin from the css/skins
-         folder instead of downloading all of them to reduce the load. -->
-    <!-- <link rel="stylesheet" href="{{asset('css/_all-skins.min.css')}}"> -->
-    <!--  <link rel="apple-touch-icon" href="{{asset('img/apple-touch-icon.png')}}">
-    <link rel="shortcut icon" href="{{asset('img/favicon.ico')}}"> -->
 
   </head>
   <body class="body1">
@@ -66,7 +59,6 @@
               <!--Título / Logo -->
               <a href="index.php" class="navbar-brand" target="">
                 <!-- Gistec Web  -->
-                <!-- <img src="../public/images/logo/logo1.png" alt="" class="img-responsive" style=""/> -->
               </a>
 
               <!-- Inicia el Menú -->
@@ -156,20 +148,16 @@
             <!-- Indicadores -->
             <!-- Son las pequeñas bolitas -->
             <ol class="carousel-indicators">
-              <!-- Tendrá el id que pusimos en el div de arriba -->
-              <!-- data-slide-to="0" porque igual que en programacion se empeza con el 0, no con el 1 -->
-              <!-- Al primer li hay que ponerle la clase "active" -->
               <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
               <li data-target="#carousel-1" data-slide-to="1"></li>
               <li data-target="#carousel-1" data-slide-to="2"></li>
             </ol>
 
             <!-- Contenedor de los slide (item)-->
-            <!-- Al primer item hay que ponerle la clase "active" -->
             <!-- items es una clase personal -->
             <div class="carousel-inner" role="listbox">
               <!-- Dentro de "item" estará todo el texto, imagen y demás -->
-              <div class="item items  active">
+              <div class="item items active">
 
                 <img src="../public/images/background.jpg" class="img-responsive img-slider" alt="">
                 <div class="img-bg-sobre2 img-responsive"></div>
@@ -251,13 +239,6 @@
                   <div class="img">
                   <img src="../public/icons/herramienta2.ico" class="img-responsive animate__animated animate__pulse animate__infinite" alt="">
                   </div>
-                  <!-- <div class="info">
-                    <div class="info-back">
-                      <h3>Diseño Web</h3>
-                      <p>Tiendas Online</p>
-                      <p>Wordpress a tu Medida</p>
-                    </div>
-                  </div> -->
               </a>
               </div>
               <!-- Imagen -->
@@ -277,13 +258,6 @@
                   <div class="img">
                   <img src="../public/icons/ventas.ico" class="img-responsive animate__animated animate__pulse animate__infinite" alt="">
                   </div>
-                  <!-- <div class="info">
-                    <div class="info-back">
-                      <h3>Marketing Online</h3>
-                      <p>Redes Sociales</p>
-                      <p>Posicionamiento SEO</p>
-                    </div>
-                  </div> -->
               </a>
               </div>
               <!-- Imagen -->
@@ -303,13 +277,6 @@
                   <div class="img">
                   <img src="../public/icons/precios.ico" class="img-responsive animate__animated animate__pulse animate__infinite" alt="">
                   </div>
-                  <!-- <div class="info">
-                    <div class="info-back">
-                      <h3>Precios</h3>
-                      <p>Métodos de pago</p>
-                      <p>Paquetes</p>
-                    </div>
-                  </div> -->
               </a>
               </div>
               <!-- Imagen -->
@@ -334,7 +301,6 @@
       <!-- Contenido diseño-web-index-->
       <section class="jumbotron jumbotron-gt cont-diseno-web-index" id="diseno-web-index">
         <img src="../public/images/businessman.jpg" class="img-responsive" alt="" style="height:449px !important;">
-        <!-- <div class="img-bg-sobre-diseno-web-index img-responsive"></div> -->
         <!--  -->
         <div class="container">
           <div class="row">         
@@ -367,7 +333,6 @@
 
       <!-- Contenido Blog Ligado con sección de tienda-->
       <section class="jumbotron jumbotron-gt cont-blog">
-        <!-- <img src="../public/images/posi-google.jpg" class="img-responsive" alt=""> -->
         <!-- blog -->
         <div class="container">
           <div class="row">         
@@ -383,7 +348,6 @@
                   <img src="../public/images/monitor-tienda.png" class="img-responsive" alt="">
                 </div>
 
-                <!-- Botón Ir al blog btn btn-info btn-lg col-md-offset-5-->
                 <div class="centrar_vertical">
                   <a href="gistecwebstore.com" class="btn-tienda" title="Tienda Online Gistec Web">
                     <span class=""></span> Tienda Gistec Web
@@ -612,8 +576,6 @@
         $('.about-us').smoove({offset:'40%'});
 
         $('.leerMas').click(function(){
-          // var nombreBlog1 = document.getElementById('nombreBlog');
-          // var nombreBlog = $('#nombreBlog');
           window.location="noticias.php";
         });
       

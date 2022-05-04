@@ -11,7 +11,6 @@
 
       <!-- Contenido Design-->
       <section class="jumbotron jumbotron-gt section-design ">
-        <!-- <img src="../public/images/businessman.jpg" class="img-responsive img-fondo-design" alt=""> -->
         <!-- <div class="container"> -->
           <div class="row">
 
@@ -149,17 +148,7 @@
      
 
 <!-- **************************************************************************************************************************************** -->
-        <!-- La creación de un sitio web es un proceso complejo. No es suficiente con 
-        diseñar páginas webs atractivas, hay que diseñar páginas webs rápidas,  
-        rápidas, intuitivas, fáciles de encontrar, comunicativas que atraigan y 
-        retengan a los visitantes y que, sobretodo, cumplan los objetivos de su 
-        empresa. Un buen diseño web es esencial para que su estrategia de 
-        marketing online funcione, un mal diseño web arruinará su credibilidad. -->
 
-        <!-- El marketing online posee una gran ventaja frente al marketing tradicional, 
-        no se dirige a las masas sino que se dirige a las personas 
-        en particular, ya que nos permite una segmentación del mercado muy alta,
-        lo que lo hace mucho más personal y efectivo en un tiempo récord. -->
 </body>
 </html>
   

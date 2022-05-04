@@ -27,13 +27,6 @@
   <link rel="stylesheet" href="../public/css/font-awesome.css">
   <!-- Font Google -->
   <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet">
-  <!-- Theme style -->
-  <!-- <link rel="stylesheet" href="{{asset('css/AdminLTE.min.css')}}"> -->
-  <!-- AdminLTE Skins. Choose a skin from the css/skins
-       folder instead of downloading all of them to reduce the load. -->
-  <!-- <link rel="stylesheet" href="{{asset('css/_all-skins.min.css')}}"> -->
-  <!--  <link rel="apple-touch-icon" href="{{asset('img/apple-touch-icon.png')}}">
-  <link rel="shortcut icon" href="{{asset('img/favicon.ico')}}"> -->
 </head>
 
 
@@ -67,7 +60,6 @@
           <!--Título / Logo -->
           <a href="index.php" class="navbar-brand" target="">
             <!-- Gistec Web  -->
-            <!-- <img src="../public/images/logo/logo1.png" alt="" class="img-responsive" style=""/> -->
           </a>
 
           <!-- Inicia el Menú -->

@@ -11,7 +11,6 @@
 
 		<!-- Contenido Servicio Tecnico -->
 		<section class="jumbotron jumbotron-gt cont-servicio">
-	        <!-- <img src="../public/images/fondo-colores2.png" class="img-responsive" alt=""> -->
 	        <!-- container -->
 	        <div class="container">
 	          <div class="row">         

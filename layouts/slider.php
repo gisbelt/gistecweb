@@ -38,16 +38,6 @@
 		      </div>
 
 		      <div class="item items">
-		        <img src="../public/images/seo2.jpg" class="img-responsive img-slider" alt="">
-		        <div class="img-bg-sobre img-responsive"></div>
-		        <!-- Texto del slide (item) -->
-		        <div class="carousel-caption">
-		          <h3>Posicionamiento SEO</h3>
-		          <p class="p-slider-without-index"><strong>Estarás en todas las búsquedas online.</strong></p>
-		        </div>  
-		      </div>
-
-		      <div class="item items">
 		        <img src="../public/images/business.jpg" class="img-responsive img-slider" alt="">
 		        <div class="img-bg-sobre img-responsive"></div>
 		        <!-- Texto del slide (item) -->

@@ -7,7 +7,6 @@
 
         <!-- Header Modal-->
         <div class="modal-header">
-          <!-- Botón para cerrar la ventana con sus atributos y clase correspondiente (clase="close") -->
           <!-- El data-dismiss="modal" nos da la funcionalidad de cerrar -->
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h4 class="modal-tittle">Contáctanos</h4>
@@ -96,7 +95,7 @@
 
       <!-- Header Modal-->
       <div class="modal-header">
-        <!-- Botón para cerrar la ventana con sus atributos y clase correspondiente (clase="close") -->
+        <!-- Botón para cerrar la ventana con sus atibutos y clase correspondiente (clase="close") -->
         <!-- El data-dismiss="modal" nos da la funcionalidad de cerrar -->
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
         <h4 class="modal-tittle">Contáctanos</h4>

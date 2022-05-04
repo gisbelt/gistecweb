@@ -11,7 +11,6 @@
 	<!-- PRIMERA FILA -->
 	<div class="container primera-fila">
 	  <div class="row">
-	    <!-- col-md-offset-3: Desplazo la columna hacia la derecha en 3 -->
 	    <div class="col-xs-12 col-md-3">
 	      <!-- Tweets -->
 	      <a class="twitter-timeline" data-height="218" data-theme="light" href="https://twitter.com/gistecweb">
@@ -94,9 +93,6 @@
     <script src="../public/js/bootstrap.min.js"></script>
     <script src="../public/js/bootstrap-carousel.js"></script>    
     <script src="../public/js/bootstrap-select.min.js"></script>
-    
-    <!-- AdminLTE App -->
-    <!-- // <script src="../public/js/app.min.js"></script> -->
     <!-- Local.js -->
     <script src="../public/js/local.js"></script> 
 

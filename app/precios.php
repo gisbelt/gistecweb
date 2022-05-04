@@ -16,7 +16,6 @@
       <div class="row">    
         
         <div class="col-xs-12 col-sm-12 col-md-12 justify-content-center precios">
-          <!-- <div class="img-bg-sobre-precios img-responsive"></div> -->
           <div class="emp">
             <p style="color: #fff;" class="animate__animated animate__lightSpeedInLeft">
               Escríbenos
@@ -236,26 +235,6 @@
           </div>
 
         </div>
-        <!-- Sidebar -->
-        <!-- <div class="hidden-xs hidden-sm col-md-3">
-          <aside class="">
-              <div class="well">
-                <h3 class="text-center">Contáctenos</h3>
-                <p class="text-center">Y venda por internet con nuestros diseños web</p>
-                <p class="text-center"><a href="#ventanaContacto" class="btn btn-info" data-toggle="modal">Contáctenos</a></p>
-              </div>
-          </aside> 
-          <aside class="">
-              <div class="well">
-                <h3 class="text-center">Horario de Trabajo:</h3>
-                <p class="text-center">Lunes a Viernes - 08:00am - 5:00pm</p>
-                <p class="text-center">Horario de atención online es de 24 horas</p>
-                <p class="text-center">Tel. (+58) 424-5289570</p>
-                <p class="text-center">Información al cliente: info@gistecweb.com.ve</p>
-              </div>
-          </aside> 
-        </div> -->
-        <!-- Sidebar -->
 
       </div>
     <!-- </div> --> <!-- Container -->

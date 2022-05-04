@@ -30,116 +30,6 @@
             </div>
             <!-- Esto es lo que está publicado -->
 
-            <!-- Esto está en Stand By -->
-            <!-- Redes Sociales  -->
-            <div class="col-xs-12 col-sm-12 col-md-12" id="panel-redes" style="display:none;" >
-              <!-- <div class="panel-body"> -->
-                <div class="col-md-12">
-                  <!-- <h3>Redes Sociales: </h3> -->
-                  <ul class="nav nav-tabs" role="tablist">
-                    <!-- data-toggle="tab": para indicar que será una tab -->
-                    <li role="presentation" class="active"><a href="#seccion1" aria-controls="seccion1" data-toggle="tab" role="tabs"><span class="fa fa-facebook"></span> Facebook</a></li>
-                    <li role="presentation"><a href="#seccion2" aria-controls="seccion2" data-toggle="tab" role="tabs"><span class="fa fa-twitter"></span> Twitter</a></li>
-                    <li role="presentation"><a href="#seccion3" aria-controls="seccion2" data-toggle="tab" role="tabs"><span class="fa fa-plus"></span> Más social media</a></li>
-                  </ul>
-                  <!-- Contenido de cada uno de nuestros "tabs" -->
-                  <div class="tab-content">
-				            <!-- Facebook -->
-                    <div role="tabpanel" class="tab-pane active" id="seccion1" style="margin-top:15px;">
-        						  <p class="text-info">
-                        ¿Quién no tiene Facebook hoy en día? Mira a tu alrededor y busca a ese “bicho raro” que todavía no utiliza esta red social (te costará encontrarlo).
-                      </p>
-                      <p class="text-info">
-                        En Facebook interactuamos con las personas que conocemos y opinamos y publicamos lo que queremos para que otras personas lo vean. Facebook nos brinda a nivel de marketing online un sinfín de posibilidades tanto a las personas como a las marcas y empresas, grandes y pequeñas.
-                      </p>
-                      <p class="text-info">
-                        Venezuela cuenta con más de 1.490 millones de usuarios activos al mes, teniendo en total 9.800.000 usuarios y dejándonos en el puesto N°. 25 en el mundo. Imagínate a cuantas personas podrá llegar tu empresa con tan solo una estrategia online correcta. 
-                      </p>
-                    </div>  
-				            <!-- Twitter -->
-                    <div role="tabpanel" class="tab-pane" id="seccion2" style="margin-top:15px;">
-                      <p class="text-info">
-                        Twitter es una red social pensada para compartir y descubrir información que los usuarios consideran de interés a tiempo real, permite a los usuarios enviar y publicar mensajes de texto o tweets con sólo 140 caracteres por mensaje.
-                      </p>
-                      <p class="text-info">
-                        Twitter es una herramienta muy efectiva para marketing, ventas, soporte técnico y servicio al cliente. Tus consumidores actuales están hablando de ti en Twitter, por lo que necesitas escuchar qué es lo que dicen y adaptar tu estrategia en esta red social para responder a sus conversaciones.
-                      </p>
-                      <p class="text-info">
-                        Mediante Twitter las empresas y personas pueden llegar de forma sencilla e inmediata a millones de consumidores para: promover activamente tu marca, generar leads, promocionar tus eventos e interactuar con los clientes en tiempo real
-                      </p> 
-                    </div>  
-				            <!-- Más social media -->
-                    <div role="tabpanel" class="tab-pane" id="seccion3" style="margin-top:15px;">
-                      <p class="text-info">
-                        LinkedIn, Youtube, Vimeo, Foursquare, Pinterest, Instagram, Xing... un sinfín de redes sociales para todos los gustos.
-                      </p>
-                      <p class="text-info">
-                        Los medios sociales se basan en la influencia y la interacción entre pares y con una audiencia pública que es cada vez más «inteligente» y participativa
-                      </p>
-                      <p class="text-info">
-                        Monitorea a tu competencia, escucha los comentarios positivos y negativos de tu marca, sácale el mayor provecho a tus redes sociales. En Gistec Web te ayudamos a gestionar la mejor estrategia para tu negocio. Confíanos tus redes sociales, confía en nosotros. 
-                      </p> 
-                    </div>  
-                    
-                  </div>
-                  <!-- Contenido de cada uno de nuestros "tabs" -->
-                </div>
-              <!-- </div> -->
-            </div>
-
-            <!-- Posicionamiento SEO -->
-            <div class="col-xs-12 col-sm-12 col-md-12 " id="panel-posi-seo" style="display:none">
-              <div class="panel-body panel-center">
-                <!-- efecto hover -->
-                <div class="img-posi-seo ih-item circle colored effect1">
-                  <a href="#">
-                    <div class="spinner"></div>
-                    <div class="img"><img src="../public/images/posi-seo.jpg" alt="img" class="img-responsive"></div>
-                    <div class="info">
-                      <div class="info-back">
-                        <h3>El SEO</h3>
-                        <p>Search Engine Optimization</p>
-                      </div>
-                    </div>
-                  </a>
-                </div>
-                <!-- end efecto hover -->
-                <div class="info-posi-seo">
-                  <p class"text-right text-posi-seo">
-                    El posicionamiento web en buscadores como Google o Bing es tan 
-                    importante como el desarrollo mismo de una web. Es la forma de 
-                    hacer visible tu página web y atraer visitas para que la página 
-                    web cumpla sus objetivos.
-                  </p>
-                  <h3>Un buen posicionamiento requiere:</h3>
-                  <ul class="lista-panel-posi-seo">
-                      <li>
-                        Redacción de contenidos originales, de calidad, con una clara intención SEO. Para ello es altamente 
-                        recomendable contar con un apartado Blog dentro del sitio web.  
-                      </li>
-                      <li>
-                        El correcto uso de las categorías, de los títulos de los post 
-                        y de la redacción en sí.
-                      </li>
-                      <li>
-                        Diseño de la estrategia Web 2.0 más adecuada y
-                        registro de sus páginas web en los principales buscadores 
-                        (Google, Bing, etc).
-                      </li>
-                      <li>
-                        La difusión de esos contenidos en redes sociales, blogs, y la
-                        obtención de enlaces externos de calidad hacia nuestra página.
-                      </li>
-                      <li>
-                        En el caso de tiendas online, un trabajo de optimización profundo en el
-                        catálogo de productos, independientemente de si se cuenta con otro 
-                        tipo de contenidos.
-                      </li>
-                  </ul>
-                </div>
-
-              </div>                     
-            </div> 
 
           </div> <!-- row -->
         <!-- </div> --> <!-- Container -->
@@ -202,7 +92,7 @@
             <div class="col-xs-12 col-sm-12 col-md-12">
               
               <div class="cont-manejoredes-inside">
-                <h1 class="text-center animate__animated animate__pulse animate__infinite">Manejo De Redes Sociales</h1>
+                <h1 class="text-center">Manejo De Redes Sociales</h1>
                 <h2 class="text-center">
                   Expertos en el manejo de redes sociales
                   Con creatividad y profesionalismo impulsamos tu imagen en 
